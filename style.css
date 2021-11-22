@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body
+{
+    text-align: center;
+    color: white;
+    background: #000;
+    font-family: 'Share Tech Mono', monospace;
+    padding: 10px;
+}
+
+.title
+{
+    font-size: 3rem;
+}
+
+.rules
+{
+    width: 100%;
+}
+
+.blacklist
+{
+    list-style: none;
+    padding: 50px;
+    font-size: 1.5rem;
+}
+
+.blacklist li
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
